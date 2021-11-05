@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Habibul Rahman</h1>
-<h4 align="center"><strong>Front-End Developer</strong> <span>from India.</span></h3>
-<span style="color:blue">some *blue* text</span>.
 
-- 📫 &nbsp;&nbsp;**habib2211998.slg@gmail.com**
+```javascript
+                           (role = "Front-End Developer") => "Looking for Opportunties";
+```
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
