@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibul Rahman</h1>
 
-```javascript
-                           (role = "Front-End Developer") => "Looking for Opportunties";
-```
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
